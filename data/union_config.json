@@ -1,0 +1,13 @@
+{
+  "mode": "owner_only",
+  "_comment": "密钥只存 Cloudflare Worker 环境变量；本文件只存中转地址与调用凭证。api_token 需与中转服务 Worker 环境变量 API_TOKEN 一致（2026-09-17 更新）。",
+  "worker": {
+    "url": "https://union-convert-tbxkbskpjy.cn-hangzhou.fcapp.run",
+    "api_token": "wt_d5MXJtjaaaTCD3MDtgYquATK2XDDI4Dv"
+  },
+  "ctrip": {
+    "_comment": "携程联盟归因参数（公开可见，非密钥，本地拼接即可，无需走Worker）",
+    "alliance_id": "10629585",
+    "sid": "331664971"
+  }
+}
