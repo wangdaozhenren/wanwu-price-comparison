@@ -1,0 +1,804 @@
+{
+ "updated": "2026-09-18",
+ "total": 114,
+ "acts": [
+  {
+   "act_id": 3,
+   "act_name": "饿了么红包节天天领红包活动",
+   "cate_name": "饿了么",
+   "desc": "饿了么外卖红包天天领",
+   "commission_rate": "比例6%"
+  },
+  {
+   "act_id": 6,
+   "act_name": "【民宿】民宿暑期大促销",
+   "cate_name": "美团",
+   "desc": "美团民宿暑期大促销，抢100元红包",
+   "commission_rate": "比例7%"
+  },
+  {
+   "act_id": 9,
+   "act_name": "【美团闪购】-神价频道页",
+   "cate_name": "美团",
+   "desc": "最高享5元无门槛神价频道红包！",
+   "commission_rate": "最高3%"
+  },
+  {
+   "act_id": 15,
+   "act_name": "【夏季特惠】9.9元购360元神券包",
+   "cate_name": "美团",
+   "desc": "9.9元购360元神券包",
+   "commission_rate": "最高35%"
+  },
+  {
+   "act_id": 18,
+   "act_name": "【全国】滴滴新客CPA+CPS活动",
+   "cate_name": "打车出行",
+   "desc": "滴滴打车红包天天领",
+   "commission_rate": "2.5%+12元/人"
+  },
+  {
+   "act_id": 20,
+   "act_name": "同程酒店钟点房特惠CPS",
+   "cate_name": "特惠酒店",
+   "desc": "66元起钟点房特惠",
+   "commission_rate": "比例3-5%"
+  },
+  {
+   "act_id": 21,
+   "act_name": "飞猪酒店闪购活动",
+   "cate_name": "",
+   "desc": "酒店闪购，全网低价5折起，百元房券免费抽",
+   "commission_rate": "佣金比例：3.6-7.5%"
+  },
+  {
+   "act_id": 23,
+   "act_name": "京东外卖CPS活动高佣专属",
+   "cate_name": "京东外卖",
+   "desc": "20元外卖百亿补贴券",
+   "commission_rate": "最高20%"
+  },
+  {
+   "act_id": 24,
+   "act_name": "美团机票CPA活动",
+   "cate_name": "",
+   "desc": "最高抢50元机票券",
+   "commission_rate": "最高30元"
+  },
+  {
+   "act_id": 25,
+   "act_name": "【外卖】大牌饮品商品券会场",
+   "cate_name": "",
+   "desc": "爆品低价大牌饮品 福利超多多！",
+   "commission_rate": "最高10%"
+  },
+  {
+   "act_id": 29,
+   "act_name": "【渠道专享红包】飞猪酒店推广活动",
+   "cate_name": "特惠酒店",
+   "desc": "专属酒店权益领267元券包",
+   "commission_rate": "比例3.6-7.5%"
+  },
+  {
+   "act_id": 30,
+   "act_name": "【超级闪促】飞猪酒店推广活动",
+   "cate_name": "特惠酒店",
+   "desc": "万达至高加赠1w积分（相当于住1赠2）；格兰云天至高加赠8000积分（相当于住1赠1） ；君澜至高加赠500积分价值500元",
+   "commission_rate": "比例3.6-7.5%"
+  },
+  {
+   "act_id": 35,
+   "act_name": "美团随心学CPA",
+   "cate_name": "",
+   "desc": "美团随心学美术、运动、书法、编程，9.9元4节课，全城门店随心选",
+   "commission_rate": "CPA60"
+  },
+  {
+   "act_id": 36,
+   "act_name": "【玩乐变美】天天可领红包！",
+   "cate_name": "",
+   "desc": "高佣爆品，大牌团购1折起",
+   "commission_rate": "佣金高至4.1%"
+  },
+  {
+   "act_id": 39,
+   "act_name": "美团试吃官CPA+CPS活动",
+   "cate_name": "美团",
+   "desc": "下单试吃得返现，最低1元吃外卖",
+   "commission_rate": "cps5%"
+  },
+  {
+   "act_id": 40,
+   "act_name": "京东大牌冰饮CPS活动",
+   "cate_name": "",
+   "desc": "京东大牌冰饮0.1元起",
+   "commission_rate": "预估比例1-12%"
+  },
+  {
+   "act_id": 41,
+   "act_name": "甄选好店 优惠专享",
+   "cate_name": "美团",
+   "desc": "美团甄选好店 大额优惠专享",
+   "commission_rate": "最高4%"
+  },
+  {
+   "act_id": 42,
+   "act_name": "【网约车】新客100%+老客3%返佣活动",
+   "cate_name": "打车出行",
+   "desc": "用户可领取8折打车券，单笔交易最高抵扣10元，不同时间段优惠券金额可能会有调整，具体以实际领取为准。",
+   "commission_rate": "新客100%+老客3%"
+  },
+  {
+   "act_id": 43,
+   "act_name": "【推荐】网约车&顺风车联合返佣活动",
+   "cate_name": "打车出行",
+   "desc": "不同用户领取的优惠券金额会有差异，最高可领100元优惠券，不同时间段优惠券金额可能会有调整，具体以实际领取为准。",
+   "commission_rate": "网约车：最高100%,顺风车CPA：10元/人"
+  },
+  {
+   "act_id": 44,
+   "act_name": "花小猪新客CPA奖励",
+   "cate_name": "打车出行",
+   "desc": "最高可领100元券包",
+   "commission_rate": "CPA 12 -18元"
+  },
+  {
+   "act_id": 46,
+   "act_name": "汉堡王在线点餐",
+   "cate_name": "连锁餐饮",
+   "desc": "汉堡王在线点餐，全场8.8折起",
+   "commission_rate": "比例4%"
+  },
+  {
+   "act_id": 49,
+   "act_name": "花小猪打车CPS+CPA拉新",
+   "cate_name": "打车出行",
+   "desc": "最高可领100元券包",
+   "commission_rate": "CPA8元+2%"
+  },
+  {
+   "act_id": 50,
+   "act_name": "会员卡券CPS活动",
+   "cate_name": "本地生活",
+   "desc": "会员卡券充值最低3折",
+   "commission_rate": "比例5%"
+  },
+  {
+   "act_id": 53,
+   "act_name": "滴滴代驾CPS+CPA活动",
+   "cate_name": "打车出行",
+   "desc": "不同用户领取的优惠券金额会有差异，最高可领20元立减券",
+   "commission_rate": "CPA30元+5%"
+  },
+  {
+   "act_id": 54,
+   "act_name": "大牌乐园限时热销",
+   "cate_name": "本地生活",
+   "desc": "方特全场9折长隆水乐园立减",
+   "commission_rate": "商品归因：1%-20%"
+  },
+  {
+   "act_id": 55,
+   "act_name": "旅游好去处",
+   "cate_name": "本地生活",
+   "desc": "领260元出游福利",
+   "commission_rate": "佣金率3.5%"
+  },
+  {
+   "act_id": 57,
+   "act_name": "聚合点餐",
+   "cate_name": "连锁餐饮",
+   "desc": "大牌连锁点餐最低5折起",
+   "commission_rate": "比例2-50%"
+  },
+  {
+   "act_id": 58,
+   "act_name": "肯德基在线点餐CPS(活动3)",
+   "cate_name": "连锁餐饮",
+   "desc": "点餐最低5折，全国连锁支持食堂/外带/送餐到家\r\n\r\n",
+   "commission_rate": "平均10%"
+  },
+  {
+   "act_id": 59,
+   "act_name": "饿了么高佣活动-领无门槛可叠加红包",
+   "cate_name": "饿了么",
+   "desc": "领券下单立减，无门槛叠加用",
+   "commission_rate": "比例6-50%"
+  },
+  {
+   "act_id": 60,
+   "act_name": "闪购超级品牌日",
+   "cate_name": "饿了么",
+   "desc": "赢闪购首单红包",
+   "commission_rate": "平均6%"
+  },
+  {
+   "act_id": 61,
+   "act_name": "网约车&代驾CPA+CPS活动",
+   "cate_name": "打车出行",
+   "desc": "每日领网约车&代驾大额红包",
+   "commission_rate": "最高15元"
+  },
+  {
+   "act_id": 63,
+   "act_name": "滴滴酒店CPS返佣活动",
+   "cate_name": "",
+   "desc": "滴滴酒店，最高可领200元抵扣券",
+   "commission_rate": "新客CPS5.5%+老客2%"
+  },
+  {
+   "act_id": 64,
+   "act_name": "必胜客线点餐CPS",
+   "cate_name": "连锁餐饮",
+   "desc": "必胜客在线点餐点餐最低7折",
+   "commission_rate": "比例8%"
+  },
+  {
+   "act_id": 65,
+   "act_name": "【首选】美团酒店首页",
+   "cate_name": "特惠酒店",
+   "desc": "美团特惠酒店在线预订，领个红包再下单",
+   "commission_rate": "比例1-5%"
+  },
+  {
+   "act_id": 67,
+   "act_name": "新花小猪CPS+CPA推广",
+   "cate_name": "打车出行",
+   "desc": "最高领128元优惠券包",
+   "commission_rate": "新客CPA10+老客CPS5%"
+  },
+  {
+   "act_id": 68,
+   "act_name": "闪购零售品牌日",
+   "cate_name": "饿了么",
+   "desc": "超市好价 即刻送达",
+   "commission_rate": "平均6%"
+  },
+  {
+   "act_id": 69,
+   "act_name": "饿了么天天领红包",
+   "cate_name": "饿了么",
+   "desc": "饿了么外卖红包天天领",
+   "commission_rate": "比例6%"
+  },
+  {
+   "act_id": 70,
+   "act_name": "大牌餐券CPS活动",
+   "cate_name": "连锁餐饮",
+   "desc": "上百种大牌餐券最低3折起，点餐更优惠",
+   "commission_rate": "比例1%-2.5%"
+  },
+  {
+   "act_id": 71,
+   "act_name": "同程民宿特惠CPS活动",
+   "cate_name": "特惠酒店",
+   "desc": "天天特惠 百元住民宿",
+   "commission_rate": "比例3-5%"
+  },
+  {
+   "act_id": 72,
+   "act_name": "京东团购频道CPS活动",
+   "cate_name": "京东外卖",
+   "desc": "京东团购频道大牌特价",
+   "commission_rate": "结算为准"
+  },
+  {
+   "act_id": 75,
+   "act_name": "美团酒店首页全渠道推广",
+   "cate_name": "特惠酒店",
+   "desc": "美团特惠酒店在线预订，领个红包再下单",
+   "commission_rate": "比例1-5%"
+  },
+  {
+   "act_id": 76,
+   "act_name": "电影票在线预定CPS",
+   "cate_name": "电影票",
+   "desc": "采用独特的供应商代理购票模式，通过全国上百家票务代理实时比价，电影票价为市场主流APP售价的19.9元起，每单便宜大约5-20元，利润最高50%！",
+   "commission_rate": "平均10%以上，最高50%"
+  },
+  {
+   "act_id": 80,
+   "act_name": "饿了么赚现金活动",
+   "cate_name": "饿了么",
+   "desc": "饿了么天天领红包",
+   "commission_rate": "佣金最高60元"
+  },
+  {
+   "act_id": 82,
+   "act_name": "【团购内部优惠】吃喝玩乐1折起",
+   "cate_name": "美团",
+   "desc": "专属优惠，吃喝玩乐特惠，套餐折上折",
+   "commission_rate": "最高2%"
+  },
+  {
+   "act_id": 83,
+   "act_name": "飞猪酒店特惠",
+   "cate_name": "特惠酒店",
+   "desc": "飞猪酒店 热门精选、天天特惠",
+   "commission_rate": "平均3.6-7.5%"
+  },
+  {
+   "act_id": 86,
+   "act_name": "飞猪民宿特惠推广",
+   "cate_name": "本地生活",
+   "desc": "底价抢先订，领券下单低至3折起，50万套城市核心商圈酒店公寓/居民住宅，一线二线城市覆盖范围广",
+   "commission_rate": "佣金3%"
+  },
+  {
+   "act_id": 87,
+   "act_name": "同程打车/顺风车CPS+CPA拉新",
+   "cate_name": "打车出行",
+   "desc": "用车业务现覆盖全国360+座城市，为用户提供全面便捷出行服务",
+   "commission_rate": "CPA5、10元+3%"
+  },
+  {
+   "act_id": 89,
+   "act_name": "美团赏金红包",
+   "cate_name": "美团",
+   "desc": "限时抢商家优惠券，可与商家满减、折扣同时使用",
+   "commission_rate": "比例4%"
+  },
+  {
+   "act_id": 91,
+   "act_name": "中秋国庆酒店提前订，封顶减100元",
+   "cate_name": "特惠酒店",
+   "desc": "中秋国庆酒店提前订，封顶减100元",
+   "commission_rate": "3.6-7.5%"
+  },
+  {
+   "act_id": 92,
+   "act_name": "同程特价酒店CPS",
+   "cate_name": "特惠酒店",
+   "desc": "酒店晚晚不过百",
+   "commission_rate": "比例3-5%"
+  },
+  {
+   "act_id": 94,
+   "act_name": "同程酒店CPS",
+   "cate_name": "特惠酒店",
+   "desc": "领百元入住红包 订房特惠5折起再减",
+   "commission_rate": "比例3-5%"
+  },
+  {
+   "act_id": 95,
+   "act_name": "机票新客CPA+老客CPS活动",
+   "cate_name": "",
+   "desc": "南航机票立减券：满 600 元减 20 元\r\n南航机票立减券：满 400 元减 15 元",
+   "commission_rate": "CPA15元+CPS0.5%"
+  },
+  {
+   "act_id": 96,
+   "act_name": "华莱士在线点餐",
+   "cate_name": "连锁餐饮",
+   "desc": "华莱士在线点餐、低至6折起",
+   "commission_rate": "比例2~6%"
+  },
+  {
+   "act_id": 97,
+   "act_name": "京东外卖CPS活动综合页面",
+   "cate_name": "京东外卖",
+   "desc": "京东外卖满8减7 限时抢",
+   "commission_rate": "最高20%"
+  },
+  {
+   "act_id": 98,
+   "act_name": "会员卡券CPS活动",
+   "cate_name": "本地生活",
+   "desc": "会员卡券充值最低3折",
+   "commission_rate": "最高10%"
+  },
+  {
+   "act_id": 101,
+   "act_name": "大牌点餐",
+   "cate_name": "连锁餐饮",
+   "desc": "大牌点餐",
+   "commission_rate": "比例10%"
+  },
+  {
+   "act_id": 103,
+   "act_name": "京东外卖频道页",
+   "cate_name": "京东外卖",
+   "desc": "品质外卖上京东，百亿补贴限时领",
+   "commission_rate": "比例1-20%"
+  },
+  {
+   "act_id": 106,
+   "act_name": "【美团外卖】超值券包",
+   "cate_name": "美团",
+   "desc": "超值券包囤美味！大牌爆品+超低价格+优惠期长！",
+   "commission_rate": "比例10%-20%"
+  },
+  {
+   "act_id": 107,
+   "act_name": "美团美食团购 18元神券到店吃",
+   "cate_name": "美团",
+   "desc": "美团美食团购 18元神券到店吃",
+   "commission_rate": "佣金比例2.4%"
+  },
+  {
+   "act_id": 108,
+   "act_name": "京东爆品双份低至9.9",
+   "cate_name": "本地生活",
+   "desc": "京东爆品双份低至9.9，好事成双 一次两份",
+   "commission_rate": "最高12%"
+  },
+  {
+   "act_id": 110,
+   "act_name": "同程酒店爆款套餐 5折起预售",
+   "cate_name": "特惠酒店",
+   "desc": "💥【爆款套餐】5折起预售，超值囤货！💥\r\n💰 百元起享同程优选套餐\r\n📅 周末可用，过期退，随时退\r\n🌟 覆盖全国20,000+酒店\r\n👉 抓住机会，现在就预订，开启您的超值住宿之旅！",
+   "commission_rate": "佣金比例1%"
+  },
+  {
+   "act_id": 111,
+   "act_name": "美团综合CPS活动",
+   "cate_name": "美团",
+   "desc": "美团外卖券、到店美食、休闲娱乐、酒店民宿、景点门票活动",
+   "commission_rate": "最高20%"
+  },
+  {
+   "act_id": 112,
+   "act_name": "饿了么霸王餐",
+   "cate_name": "饿了么",
+   "desc": "评价有礼单单返",
+   "commission_rate": "比例8%"
+  },
+  {
+   "act_id": 113,
+   "act_name": "【政府消费券】飞猪酒店推广活动",
+   "cate_name": "本地生活",
+   "desc": "领政府文旅补贴，单笔最高立减600元",
+   "commission_rate": "比例3.6-7.5%"
+  },
+  {
+   "act_id": 114,
+   "act_name": "京东9块9包邮特惠",
+   "cate_name": "电商",
+   "desc": "京东9块9包邮特惠",
+   "commission_rate": "比例1%-20%"
+  },
+  {
+   "act_id": 115,
+   "act_name": "美团团购专属福利88元红包",
+   "cate_name": "美团",
+   "desc": "专属福利88元红包，限时限量发放",
+   "commission_rate": "比例3%-5%"
+  },
+  {
+   "act_id": 116,
+   "act_name": "美团到餐网推CPA新客活动",
+   "cate_name": "美团",
+   "desc": "必抢套餐 低至4折 出门吃饭 美食团购更优惠",
+   "commission_rate": "CPA 10元"
+  },
+  {
+   "act_id": 117,
+   "act_name": "超值券包&外卖&酒店聚合页",
+   "cate_name": "美团",
+   "desc": "超值券包囤美味！大牌爆品+超低价格+优惠期长！",
+   "commission_rate": "平均6%"
+  },
+  {
+   "act_id": 118,
+   "act_name": "外卖社群加粉CPA",
+   "cate_name": "美团",
+   "desc": "外卖社群加粉CPA",
+   "commission_rate": "CPA 7元"
+  },
+  {
+   "act_id": 119,
+   "act_name": "美团外卖私域推广活动",
+   "cate_name": "美团",
+   "desc": "关注公众号得80元新人券包",
+   "commission_rate": "预估8元"
+  },
+  {
+   "act_id": 120,
+   "act_name": "【88VIP专享】飞猪酒店推广",
+   "cate_name": "本地生活",
+   "desc": "88会员更优惠，大牌酒店85折起",
+   "commission_rate": "3.6-7.5%"
+  },
+  {
+   "act_id": 121,
+   "act_name": "网约车CPA+CPS&多业务线返佣",
+   "cate_name": "打车出行",
+   "desc": "网约车、顺风车、代驾优惠券",
+   "commission_rate": "最高15"
+  },
+  {
+   "act_id": 122,
+   "act_name": "特价寄快递CPS活动",
+   "cate_name": "快递优惠",
+   "desc": "寄件享4折起优惠 低至5元寄快递",
+   "commission_rate": "比例10%"
+  },
+  {
+   "act_id": 124,
+   "act_name": "淘宝闪购-爆品好价",
+   "cate_name": "饿了么",
+   "desc": "超值爆品，加倍补贴！",
+   "commission_rate": "平均6%"
+  },
+  {
+   "act_id": 125,
+   "act_name": "来闪购一下 可赢免单福利",
+   "cate_name": "饿了么",
+   "desc": "闪购新用户可领首单免单福利",
+   "commission_rate": "平均6%"
+  },
+  {
+   "act_id": 127,
+   "act_name": "淘宝闪购-领免单卡",
+   "cate_name": "饿了么",
+   "desc": "领最高15元大额红包",
+   "commission_rate": "平均6%"
+  },
+  {
+   "act_id": 128,
+   "act_name": "饿了么大牌券",
+   "cate_name": "饿了么",
+   "desc": "大牌低价，降至冰点",
+   "commission_rate": "佣金10%"
+  },
+  {
+   "act_id": 129,
+   "act_name": "饿了么红包领不停",
+   "cate_name": "饿了么",
+   "desc": "每天可领，每周五五折红包，每月18红包节",
+   "commission_rate": "佣金6%"
+  },
+  {
+   "act_id": 131,
+   "act_name": "酒旅营销新客专项",
+   "cate_name": "特惠酒店",
+   "desc": "美团酒店旅行送福利，领百元券包再下单",
+   "commission_rate": "比例1-5%"
+  },
+  {
+   "act_id": 132,
+   "act_name": "饿了么赚现金活动",
+   "cate_name": "饿了么",
+   "desc": "饿了么天天领红包",
+   "commission_rate": "佣金最高60元"
+  },
+  {
+   "act_id": 133,
+   "act_name": "饿了么21城消费日活动",
+   "cate_name": "饿了么",
+   "desc": "饿了么21城消费日活动，8元红包天天领",
+   "commission_rate": "预估收益6%"
+  },
+  {
+   "act_id": 136,
+   "act_name": "库迪咖啡在线点餐",
+   "cate_name": "连锁餐饮",
+   "desc": "库迪咖啡全场6折起",
+   "commission_rate": "比例10%"
+  },
+  {
+   "act_id": 138,
+   "act_name": "美团霸王餐活动",
+   "cate_name": "美团",
+   "desc": "下单试吃得返现，最低1元吃外卖",
+   "commission_rate": "商家出佣比例*5%"
+  },
+  {
+   "act_id": 139,
+   "act_name": "国际酒店暑期大促",
+   "cate_name": "特惠酒店",
+   "desc": "☀️夏日福利，全球畅住\r\n🌍199元起抢全球酒店通兑\r\n🧧超值红包一键领取\"",
+   "commission_rate": "比例2-5%"
+  },
+  {
+   "act_id": 141,
+   "act_name": "【里程抵房费】飞猪酒店推广活动",
+   "cate_name": "本地生活",
+   "desc": "里程抵房费，订酒店折上折，至高膨胀20倍",
+   "commission_rate": "比例3.6-7.5%"
+  },
+  {
+   "act_id": 142,
+   "act_name": "飞猪签证推广活动",
+   "cate_name": "本地生活",
+   "desc": "办签证上飞猪，立减30元",
+   "commission_rate": "佣金0.5-10%"
+  },
+  {
+   "act_id": 143,
+   "act_name": "【百元好房】飞猪酒店推广活动",
+   "cate_name": "本地生活",
+   "desc": "百元住好房，领200元酒店惊喜红包",
+   "commission_rate": "比例3.6-7.5%"
+  },
+  {
+   "act_id": 144,
+   "act_name": "飞猪度假会场",
+   "cate_name": "本地生活",
+   "desc": "年度囤货节，大牌乐园4.6折起",
+   "commission_rate": "0.5-15%"
+  },
+  {
+   "act_id": 145,
+   "act_name": "飞猪租车CPS活动",
+   "cate_name": "本地生活",
+   "desc": "租车最高减免440元",
+   "commission_rate": "比例3%"
+  },
+  {
+   "act_id": 146,
+   "act_name": "飞猪酒店天天特惠活动",
+   "cate_name": "特惠酒店",
+   "desc": "飞猪酒店天天特惠活动，最高立减150元，订房6折起",
+   "commission_rate": "比例3.6-7.5%"
+  },
+  {
+   "act_id": 148,
+   "act_name": "飞猪特价门票",
+   "cate_name": "本地生活",
+   "desc": "超值特惠，低至5折起",
+   "commission_rate": "最高10%"
+  },
+  {
+   "act_id": 149,
+   "act_name": "国庆全球游提前订",
+   "cate_name": "特惠酒店",
+   "desc": "💰国庆全球游早鸟价\r\n🎁限时1000元大额券包\r\n❇️两晚及以上，预定更优惠！",
+   "commission_rate": "佣金比例2-5%"
+  },
+  {
+   "act_id": 150,
+   "act_name": "美团赚超值券包全品类",
+   "cate_name": "美团",
+   "desc": "超值券包囤美味！大牌爆品+超低价格+优惠期长！",
+   "commission_rate": "比例6%"
+  },
+  {
+   "act_id": 151,
+   "act_name": "同程国际酒店热销目的地",
+   "cate_name": "特惠酒店",
+   "desc": "🌍全球目的地随心探索\r\n🏨国际酒店一键轻松订\r\n🇹🇭活力泰国・🇰🇷追梦韩国・🇭🇰🇲🇴畅游港澳・🇸🇬魅力新加坡・🇲🇾多彩马来\r\n🌆超多国家城市任你挑选\r\n🎁享官方补贴、酒店礼遇、专享红包、优惠礼包",
+   "commission_rate": "佣金2-5%"
+  },
+  {
+   "act_id": 152,
+   "act_name": "同程境外酒店专享福利",
+   "cate_name": "特惠酒店",
+   "desc": "🌍 境外酒店专享福利\r\n🎁 领 888 元补贴红包\r\n✨ 精选高分酒店合集\r\n🛡️ 安心预订 超级优惠",
+   "commission_rate": "佣金比例2-5%"
+  },
+  {
+   "act_id": 4,
+   "act_name": "社群限量福利",
+   "cate_name": "饿了么",
+   "desc": "社群专享，9.9元吃饱喝足",
+   "commission_rate": "预估佣金10%"
+  },
+  {
+   "act_id": 5,
+   "act_name": "饿了么零售会场推广活动",
+   "cate_name": "饿了么",
+   "desc": "超低价爆品来袭",
+   "commission_rate": "比例4%"
+  },
+  {
+   "act_id": 1,
+   "act_name": "美团外卖CPS推广活动 ",
+   "cate_name": "美团",
+   "desc": "美团外卖红包天天领",
+   "commission_rate": "比例3%"
+  },
+  {
+   "act_id": 2,
+   "act_name": "【美团闪购】红包天天领会场！",
+   "cate_name": "美团",
+   "desc": "每周三在线满43减13元大额神券",
+   "commission_rate": "3%-10%+新客CPA8元"
+  },
+  {
+   "act_id": 28,
+   "act_name": "暑假住酒店，享0元免单！",
+   "cate_name": "特惠酒店",
+   "desc": "暑假住酒店，享0元免单！\r\n暑期活动来袭，多重好礼快领 一：赢100元现金 二：1元抵88元 三：0元住酒店",
+   "commission_rate": "比例1-5%"
+  },
+  {
+   "act_id": 27,
+   "act_name": "吃喝玩乐 每日福利",
+   "cate_name": "美团",
+   "desc": "内部优惠3折起 每周五还可抢大额神券",
+   "commission_rate": "最高15%"
+  },
+  {
+   "act_id": 7,
+   "act_name": "美团外卖CPS推广活动②",
+   "cate_name": "美团",
+   "desc": "美团外卖红包天天领",
+   "commission_rate": "比例3%"
+  },
+  {
+   "act_id": 8,
+   "act_name": "美团闪购CPS推广活动",
+   "cate_name": "美团",
+   "desc": "美团商超专享活动红包天天领",
+   "commission_rate": "比例4%"
+  },
+  {
+   "act_id": 10,
+   "act_name": "美团酒店个性化分发页面",
+   "cate_name": "",
+   "desc": "活动依据客户身份定向分发最优页面，包含亲子、学生、商旅等各种活动",
+   "commission_rate": "比例1-5%"
+  },
+  {
+   "act_id": 11,
+   "act_name": "【美团机票】百元惊喜优惠伴你返乡",
+   "cate_name": "美团",
+   "desc": "春节返乡最高可领100元福利",
+   "commission_rate": "最高15元"
+  },
+  {
+   "act_id": 12,
+   "act_name": "拼多多限时秒杀CPS",
+   "cate_name": "电商",
+   "desc": "超低价好货疯抢，为您带来巨大流量",
+   "commission_rate": "比例1-50%"
+  },
+  {
+   "act_id": 14,
+   "act_name": "拼多多领券中心CPS",
+   "cate_name": "电商",
+   "desc": "15天内购买该频道所有商品均会结佣\r\n",
+   "commission_rate": "比例1-50%"
+  },
+  {
+   "act_id": 38,
+   "act_name": "肯德基活动在线点餐(活动2)",
+   "cate_name": "连锁餐饮",
+   "desc": "肯德基单单享低价，优惠点餐5折起",
+   "commission_rate": "比例8%"
+  },
+  {
+   "act_id": 19,
+   "act_name": "同程内部专享酒店优惠CPS",
+   "cate_name": "特惠酒店",
+   "desc": "🚀 同程内部员工专享酒店优惠\r\n🧧 领酒店通用红包+高端酒店红包+港澳海外红包\r\n🎁 尊享权益直接领：延迟退房、房型升级随心享\r\n✨ 同程甄选酒店超值5折起，住宿优惠直接拉满~",
+   "commission_rate": "比例3-5%"
+  },
+  {
+   "act_id": 31,
+   "act_name": "百果园水果外送",
+   "cate_name": "连锁餐饮",
+   "desc": "百果园水果外送，满49元包邮，全场优惠9折起",
+   "commission_rate": "比例4%"
+  },
+  {
+   "act_id": 32,
+   "act_name": "奈雪的茶在线点餐",
+   "cate_name": "连锁餐饮",
+   "desc": "奈雪的茶在线点餐，全场优惠8.8折起",
+   "commission_rate": "比例4%"
+  },
+  {
+   "act_id": 33,
+   "act_name": "瑞幸咖啡在线点餐",
+   "cate_name": "连锁餐饮",
+   "desc": "瑞幸咖啡在线点餐，全场饮品5.5折起",
+   "commission_rate": "比例4%"
+  },
+  {
+   "act_id": 34,
+   "act_name": "星巴克在线点餐",
+   "cate_name": "连锁餐饮",
+   "desc": "星巴克在线点餐，饮品优惠点餐低至8折起",
+   "commission_rate": "比例8%"
+  },
+  {
+   "act_id": 37,
+   "act_name": "喜茶在线点餐",
+   "cate_name": "连锁餐饮",
+   "desc": "喜茶天天省，全场9.5折\r\n",
+   "commission_rate": "比例2%"
+  }
+ ]
+}
