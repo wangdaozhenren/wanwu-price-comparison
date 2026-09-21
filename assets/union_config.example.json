@@ -1,0 +1,8 @@
+{
+  "mode": "owner_only",
+  "_comment": "示例模板：本文件只存中转地址与调用凭证；api_token 请填你自己的（与中转服务 Worker 环境变量 API_TOKEN 一致）。分发给他人时把 api_token 留空。",
+  "worker": {
+    "url": "https://api.tongren.group",
+    "api_token": ""
+  }
+}
