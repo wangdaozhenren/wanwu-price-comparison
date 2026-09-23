@@ -1,0 +1,12 @@
+{
+  "mode": "owner_only",
+  "slug": "wanwu",
+  "src": "wanwu",
+  "worker": {
+    "url": "https://union-convert-tbxkbskpjy.cn-hangzhou.fcapp.run"
+  },
+  "ctrip": {
+    "sid": "331664971",
+    "alliance_id": "10629585"
+  }
+}
