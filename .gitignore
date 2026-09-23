@@ -1,14 +1,12 @@
-# 技能发布仓库忽略规则（复制为 .gitignore 使用）
-# 密钥与本地配置绝不入库
-secrets.json
-.skill-distributor/
+# ---- 运行数据与本地凭证（整个data目录绝不入库） ----
+data/
 
-# Python 缓存
+# ---- 备份与系统文件 ----
 __pycache__/
 *.pyc
-
-# 系统与编辑器
 .DS_Store
 Thumbs.db
-.idea/
-.vscode/
+_backup/
+
+# ---- 内部维护资料 ----
+# 注：references/union-api.md 为脱敏版可入库；如本地存在含密钥的原始版本请勿覆盖提交
